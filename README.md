@@ -4,7 +4,7 @@ The purpsose of this lab was to practice and learn more modern JavaScript syntax
 
 ## Technologies used
 
-Software tools, CLI commands, Keyboard shortcuts, Node.js server-side JavaScript
+VSCode
 
 ## What I learned
 
